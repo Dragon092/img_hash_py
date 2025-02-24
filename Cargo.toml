@@ -10,3 +10,5 @@ crate-type = ["cdylib"]
 
 [dependencies]
 pyo3 = "0.23.3"
+image = "0.23"
+img_hash = "3"
