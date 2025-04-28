@@ -9,6 +9,6 @@ name = "img_hash_py"
 crate-type = ["cdylib"]
 
 [dependencies]
-pyo3 = "0.23.3"
+pyo3 = "0.24.2"
 image = "0.23"
 img_hash = "3"
